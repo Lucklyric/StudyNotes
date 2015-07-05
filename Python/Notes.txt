@@ -1,0 +1,3 @@
+Install a module package 
+python setup.py install --user
+This avoid the permission problem
