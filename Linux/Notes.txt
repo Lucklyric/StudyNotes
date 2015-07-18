@@ -1,0 +1,3 @@
+root account
+"sudo passwd root" enable the root account 
+"sudo passwd -dl root" re-disabling your root account
