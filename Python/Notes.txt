@@ -1,4 +1,8 @@
 Install a module package 
+=====================================
 python setup.py install --user
 pip install --user pckname
 This avoid the permission problem
+=====================================
+Python Sublime environmet
+https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
