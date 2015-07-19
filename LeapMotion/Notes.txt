@@ -1,0 +1,15 @@
+LeapMtion Controller Configuration File
+==============================================
+Linux: ~/.Leap\ Motion/config.json
+Mac: ~/Library/Application\ Support/Leap\ Motion/config.json
+Windows: %AppData%\Leap Motion\config.json
+---------------------------------------------
+Sample:
+{
+  "configuration": {
+    "background_app_mode": 2,
+    "websockets_allow_remote": true,
+	"websockets_enabled": true
+  }
+}
+==============================================
